@@ -1,0 +1,26 @@
+version: "3.8"
+services:
+  web:
+    build:
+      context: ./
+      target: development
+    volumes:
+      - ./:/sougood
+    ports:
+      - ${PORT}:${PORT}
+    command: npm run dev
+    depends_on:
+      - db
+    links:
+      - db
+
+  db:
+    image: mongo
+    volumes:
+      - sougood-db:/data/db
+    ports:
+      - ${DB_PORT}:${DB_PORT}
+
+volumes:
+  sougood-db:
+

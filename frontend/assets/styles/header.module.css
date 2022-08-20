@@ -1,0 +1,26 @@
+.navbarContainer {
+  font-size: 18px;
+}
+
+.nav {
+  justify-content: space-between;
+}
+
+.navBar {
+  background-color: #dec192; 
+  padding: 0;
+  margin: 0;
+}
+
+.navBarBrand {
+  padding: 0;
+}
+
+.category {
+  color: black;
+}
+
+.iconButton {
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+}

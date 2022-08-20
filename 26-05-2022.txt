@@ -1,0 +1,27 @@
+Se compra a un lado específico. Escoger fundación a la cual se entrega un aporte.
+    1. Fundación Beata Laura Vicuña
+    2. Sindicato Clínica Alemana
+
+Informes de compra para cada proveedor.
+
+Footer con información de contacto para formar parte de proveedores.
+
+Testimonios para los servicios y productos en general.
+
+En las características del servicio se debe poder acotar por comunas (zona de servicio).
+
+Superadmin para la gestión de productos.
+
+Paneles de educación en los catálogos. Mensajes para ello.
+
+Roles: 
+    - Socio.
+    - Colaborador.
+    - Usuario.
+    - Administrador.
+
+Próxima reunión: 
+    - Botón de finalizar compra.
+    - Subcategorías y navegación.
+    - Ordenar categorías y filtrar por subcategorías.
+    - Registro.

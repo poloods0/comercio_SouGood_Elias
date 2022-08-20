@@ -1,0 +1,39 @@
+main {
+  height: 100%;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mt-100 {
+  margin-top: 100px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.mt-100 button {
+  background-color: green;
+  width: 25%;
+}
+
+.mainpage-container {
+  margin-top: 40px;
+}
+
+.carousel-caption h3 {
+  font-color: green;
+}
+
+.carousel-caption h1 {
+  color: white;
+}
+
+.page-description-title {
+  color: red;
+}
+
+.carousel-caption h2 {
+  color:white;
+}

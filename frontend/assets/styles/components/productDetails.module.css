@@ -1,0 +1,54 @@
+.detailsBox{
+  background: #00000050;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  position: sticky;
+}
+
+.detailsElementsContainer{
+  position: sticky;
+  width:50%;
+  margin: 0 auto;
+  height: 500px;
+  max-height: 85vh;
+  margin-top: 15vh;
+  background: #fff;
+  border-radius: 15px;
+  padding: 5px;
+  border: 1px solid #999;
+  top: 100px;
+}
+
+.closeButton{
+  position: absolute;
+  right: -10px;
+  top: -10px;
+  background: #ededed;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  text-align: center;
+  border: 1px solid #999;
+}
+
+.productImage{
+  border-radius: 15px;
+}
+
+.productName{
+  font-size: 25px;
+}
+
+.productDetails {
+  padding-top: 10px;
+}
+
+.addToCartButtonContainer{
+  text-align: center;
+  justify-content: center;
+}
+
+.productDescription {
+  height: 80%;
+}
